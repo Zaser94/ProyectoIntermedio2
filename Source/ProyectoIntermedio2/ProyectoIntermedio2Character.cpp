@@ -133,6 +133,11 @@ void AProyectoIntermedio2Character::StartSwimming(float Value)
 	// Better use a float
 }
 
+void AProyectoIntermedio2Character::StartFlying(float Speed)
+{
+	//WARNING: This is a professional test. Don't do this at home.
+}
+
 void AProyectoIntermedio2Character::SpainAlwaysWins()
 {
 	// Are you Facha?
