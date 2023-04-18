@@ -127,3 +127,13 @@ void AProyectoIntermedio2Character::MoveRight(float Value)
 		AddMovementInput(Direction, Value);
 	}
 }
+
+void AProyectoIntermedio2Character::StartSwimming(float Value)
+{
+	// Better use a float
+}
+
+void AProyectoIntermedio2Character::SpainAlwaysWins()
+{
+	// Are you Facha?
+}

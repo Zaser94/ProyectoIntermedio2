@@ -32,6 +32,8 @@ protected:
 
 	/** Called for side to side input */
 	void MoveRight(float Value);
+	
+	void StartSwimming(float Value);
 
 	/** 
 	 * Called via input to turn at a given rate. 
@@ -50,6 +52,8 @@ protected:
 
 	/** Handler for when a touch input stops. */
 	void TouchStopped(ETouchIndex::Type FingerIndex, FVector Location);
+	
+	void SpainAlwaysWins();
 
 protected:
 	// APawn interface
