@@ -32,6 +32,9 @@ protected:
 
 	/** Called for side to side input */
 	void MoveRight(float Value);
+	
+	/** Imagine is the limit */
+	void StartFlying(float Speed);
 
 	/** 
 	 * Called via input to turn at a given rate. 

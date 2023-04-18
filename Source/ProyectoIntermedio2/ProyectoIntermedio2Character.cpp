@@ -127,3 +127,8 @@ void AProyectoIntermedio2Character::MoveRight(float Value)
 		AddMovementInput(Direction, Value);
 	}
 }
+
+void AProyectoIntermedio2Character::StartFlying(float Speed)
+{
+	//WARNING: This is a professional test. Don't do this at home.
+}
