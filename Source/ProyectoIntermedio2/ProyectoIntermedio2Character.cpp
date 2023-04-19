@@ -132,3 +132,14 @@ void AProyectoIntermedio2Character::StartFlying(float Speed)
 {
 	//WARNING: This is a professional test. Don't do this at home.
 }
+
+void AProyectoIntermedio2Character::SpainAlwaysWins()
+{
+	//WARNING: This is a professional test. Don't do this at home.
+}
+
+void void AProyectoIntermedio2Character::Cicuta()
+{
+   //WARNING: This is a professional test. Don't do this at home.
+}
+
